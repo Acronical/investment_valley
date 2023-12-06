@@ -10,11 +10,11 @@ CINF-405 Team Project (Group 5)
 
 ## Need to be done:
 - [ ] make graphs showing the price trend for stock, crypto, and real estate trading (Dominick)
-- [ ] player can buy/sell stocks, crypto or houses (Nick)
-- [ ] functions for casino, lottery, bank (Aidan)
-- [ ] integrate Dominick's code
-- [ ] player can "talk" to building (Dylan)
-- [ ] Get Aidan's roulette code to run when the player interacts with the respective buildings 
+- [x] player can buy/sell stocks, crypto or houses (Nick)
+- [x] functions for casino, lottery, bank (Aidan)
+- [x] integrate Dominick's code
+- [x] player can "talk" to building (Dylan)
+- [ ] Get Aidan's roulette code to run when the player interacts with the Casino building
 
 ## Aidan
 
