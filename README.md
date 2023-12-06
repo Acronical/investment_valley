@@ -2,11 +2,11 @@
 CINF-405 Team Project (Group 5)
 
 ## How to run the game:
-- cd to  `investment_valley`  folder
+- cd to the `investment_valley`  folder
 - setup and activate Python Virtual Enviroment (Optional)
 - make sure Pygame is installed, I used `pip3 install pygame` on my Mac
 - make sure matplotlib is installed, I used `pip3 install matplotlib` on Mac
-- inside the `investment_valley` folder, type  `python3 code/game.py`  to run the game
+- type  `python3 code/game.py`  to run the game
 
 ## Need to be done:
 - [ ] make graphs showing the price trend for stock, crypto, and real estate trading (Dominick)
