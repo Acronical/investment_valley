@@ -35,5 +35,5 @@ CINF-405 Team Project (Group 5)
   - [x] 5 buildings with collision detection, so player cannot move across each building
   - [x] player animations
   - [x] game map and building images
-- Code review, and merge pull requests from team members, resolve and fix conflicts if necessary
-- Wrote code for Real Estate building function and interaction
+- Code review, and merge pull requests from team members, resolve and fix code conflicts
+- Real Estate building function and interaction
